@@ -1,0 +1,4 @@
+azure-cognitiveservices-speech
+tk==0.1.0
+tkinterweb==3.9
+pywin32==305
